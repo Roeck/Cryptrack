@@ -1,0 +1,12 @@
+{
+  "name": "cryptrack",
+  "displayName": "cryptrack",
+  "expo": {
+    "name": "cryptrack",
+    "slug": "cryptrack",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
